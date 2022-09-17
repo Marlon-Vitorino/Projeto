@@ -1,0 +1,12 @@
+.cadastro {
+    display: flex;
+    flex-direction: column;
+}
+
+.cadastro__descricao {
+    height: 15.75rem;
+}
+
+.cadastro__preco-container, .cadastro__descricao-container {
+    width: 50%;
+}
